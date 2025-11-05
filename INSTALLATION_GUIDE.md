@@ -1,6 +1,6 @@
 # Guía de Instalación y Configuración - Neuro-AI v2.0.0
 
-## 📋 Requisitos del Sistema
+## Requisitos del Sistema
 
 ### Hardware Mínimo
 - **Procesador**: Intel Core i5 o AMD Ryzen 5 (4 núcleos)
