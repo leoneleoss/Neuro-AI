@@ -1,0 +1,30 @@
+# Core dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+pydantic==2.5.0
+
+# Image processing
+Pillow==10.1.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# Machine Learning (opcional - comentar si no se usan modelos reales)
+tensorflow==2.15.0
+# tensorflow-gpu==2.15.0  # Descomentar para soporte GPU
+
+# PDF generation
+reportlab==4.0.7
+pypdf==3.17.1
+
+# Data handling
+pandas==2.1.3
+python-dateutil==2.8.2
+
+# Utilities
+python-dotenv==1.0.0
+aiofiles==23.2.1
+
+# Medical image processing (opcional)
+# pydicom==2.4.3  # Para archivos DICOM
+# SimpleITK==2.3.1  # Para procesamiento avanzado de imágenes médicas
