@@ -8,7 +8,7 @@ Sistema de Diagnóstico Asistido por Inteligencia Artificial para Análisis de T
 
 Neuro-AI es una aplicación de escritorio moderna que utiliza inteligencia artificial y redes neuronales para analizar tomografías cerebrales y de tórax, proporcionando diagnósticos preliminares para asistir a profesionales médicos.
 
-## ✨ Características Principales
+## Características Principales
 
 ### Funcionalidades Core
 - **Análisis con IA**: Procesamiento de tomografías usando modelos de deep learning
