@@ -4,7 +4,7 @@ Sistema de Diagnóstico Asistido por Inteligencia Artificial para Análisis de T
 
 ![Neuro-AI](./public/banner.png)
 
-## 📋 Descripción
+## Descripción
 
 Neuro-AI es una aplicación de escritorio moderna que utiliza inteligencia artificial y redes neuronales para analizar tomografías cerebrales y de tórax, proporcionando diagnósticos preliminares para asistir a profesionales médicos.
 
@@ -29,7 +29,7 @@ Neuro-AI es una aplicación de escritorio moderna que utiliza inteligencia artif
 - **Advertencias Claras**: Disclaimers sobre la fiabilidad de IA
 - **Reportes Editables**: PDFs modificables para correcciones médicas
 
-## 🚀 Instalación
+## Instalación
 
 ### Requisitos Previos
 - Node.js 18+ 
@@ -68,7 +68,7 @@ Coloca los archivos `.h5` en la carpeta `data/models/`:
 - `data/models/brain_model.h5`
 - `data/models/chest_model.h5`
 
-## 🎮 Uso
+## Uso
 
 ### Modo Desarrollo
 ```bash
@@ -91,7 +91,7 @@ npm run dist:mac
 npm run dist:linux
 ```
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 neuro-ai-app/
@@ -124,7 +124,7 @@ neuro-ai-app/
 └── scripts/             # Scripts de utilidad
 ```
 
-## 🔧 Configuración
+##  Configuración
 
 ### Variables de Entorno
 
@@ -144,7 +144,7 @@ MAX_FILE_SIZE=52428800  # 50MB
 CACHE_DIR=./cache
 ```
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Ejecutar todos los tests
@@ -157,7 +157,7 @@ npm run test:coverage
 cd backend && python -m pytest
 ```
 
-## 📊 Modelos de IA
+## Modelos de IA
 
 ### Clases de Diagnóstico
 
@@ -178,11 +178,11 @@ cd backend && python -m pytest
 
 Para entrenar tus propios modelos, consulta la documentación en `docs/training.md`.
 
-## ⚠️ Advertencia Legal
+## Advertencia Legal
 
 **IMPORTANTE**: Esta aplicación es una herramienta de asistencia y NO reemplaza el diagnóstico médico profesional. Todos los resultados deben ser revisados y validados por un profesional médico calificado antes de tomar decisiones clínicas.
 
-## 🤝 Contribución
+## Contribución
 
 Las contribuciones son bienvenidas! Por favor:
 
@@ -192,21 +192,21 @@ Las contribuciones son bienvenidas! Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📝 Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
 
-## 👥 Autores
+## Autores
 
 - **Equipo Neuro-AI** - Desarrollo inicial
 
-## 🙏 Agradecimientos
+## Agradecimientos
 
 - Datasets de Kaggle por proporcionar las imágenes de entrenamiento
 - Comunidad de TensorFlow por las herramientas de ML
 - Electron y React por el framework de aplicación
 
-## 📧 Contacto
+## Contacto
 
 Para soporte o consultas: support@neuro-ai.com
 
