@@ -189,7 +189,7 @@ npm run dev
 # - Aplicación Electron
 ```
 
-## 🔧 Configuración Adicional
+## Configuración Adicional
 
 ### Configurar HTTPS (Producción)
 
@@ -230,7 +230,7 @@ redis_client = redis.Redis(
 )
 ```
 
-## 📦 Compilación para Distribución
+## Compilación para Distribución
 
 ### Windows (.exe)
 ```bash
@@ -258,7 +258,7 @@ npm run dist:linux
 chmod +x dist/Neuro-AI-*.AppImage
 ```
 
-## 🐛 Solución de Problemas Comunes
+## Solución de Problemas Comunes
 
 ### Error: "Python/Node no encontrado"
 ```bash
@@ -302,7 +302,7 @@ ls -la data/models/
 python scripts/create_dummy_models.py
 ```
 
-## 🧪 Verificación de la Instalación
+## Verificación de la Instalación
 
 ### Test Rápido del Backend
 ```bash
@@ -327,7 +327,7 @@ npm test
 npm run test:e2e
 ```
 
-## 📱 Configuración para Desarrollo
+## Configuración para Desarrollo
 
 ### VS Code
 Instalar extensiones recomendadas:
@@ -374,7 +374,7 @@ Configuración `.vscode/settings.json`:
 }
 ```
 
-## 🔐 Seguridad
+## Seguridad
 
 ### Configuraciones Importantes
 1. **Nunca** subir modelos o datos sensibles a repositorios públicos
@@ -394,7 +394,7 @@ npm audit fix
 pip install --upgrade -r requirements.txt
 ```
 
-## 📞 Soporte
+## Soporte
 
 Si encuentras problemas durante la instalación:
 1. Revisa los logs en `data/logs/`
@@ -402,7 +402,7 @@ Si encuentras problemas durante la instalación:
 3. Abre un issue en GitHub
 4. Contacta al equipo: support@neuro-ai.com
 
-## ✅ Checklist Post-Instalación
+## Checklist Post-Instalación
 
 - [ ] Node.js y Python instalados correctamente
 - [ ] Todas las dependencias instaladas sin errores
